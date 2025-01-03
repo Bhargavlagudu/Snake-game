@@ -1,2 +1,2 @@
 # Snake-game
-It is build using react.
+I've built it using ReactJS which implements functional components and manages the state accordingly.
